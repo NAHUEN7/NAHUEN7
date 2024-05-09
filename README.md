@@ -1,4 +1,7 @@
-### Hi there 👋
+### hola soy Matteo 👋
+estoy aprendiendo a programar junto a un pequeno grupo de amigos.
+
+
 
 <!--
 **NAHUEN7/NAHUEN7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
